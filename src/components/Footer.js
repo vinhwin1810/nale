@@ -1,5 +1,5 @@
 import { Container, Row, Col } from "react-bootstrap";
-import { MailchimpForm } from "./MailchimpForm";
+
 import pirate from "../assets/img/pirate.svg";
 import Love from "../assets/img/love.svg";
 import Love1 from "../assets/img/love1.svg";
